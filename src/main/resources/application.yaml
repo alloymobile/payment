@@ -1,0 +1,13 @@
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+
+payment:
+  secret: "ThisIsSecretForJWTHS512SignatureAlgorithmThatMUSTHave64ByteLength"
+  token-prefix: "Bearer "
+  header-string: "Authorization"
