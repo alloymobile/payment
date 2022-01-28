@@ -1,4 +1,4 @@
-package com.alloymobiletech.payment;
+package com.alloymobile.payment;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

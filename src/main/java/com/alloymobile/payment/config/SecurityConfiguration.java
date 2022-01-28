@@ -1,6 +1,6 @@
-package com.alloymobiletech.payment.config;
+package com.alloymobile.payment.config;
 
-import com.alloymobiletech.payment.security.AuthorizationFilter;
+import com.alloymobile.payment.security.AuthorizationFilter;
 import com.google.common.collect.ImmutableList;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

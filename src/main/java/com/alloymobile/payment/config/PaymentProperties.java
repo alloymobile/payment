@@ -1,4 +1,4 @@
-package com.alloymobiletech.payment.config;
+package com.alloymobile.payment.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

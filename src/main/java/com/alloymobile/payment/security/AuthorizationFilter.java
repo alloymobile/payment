@@ -1,6 +1,6 @@
-package com.alloymobiletech.payment.security;
+package com.alloymobile.payment.security;
 
-import com.alloymobiletech.payment.config.PaymentProperties;
+import com.alloymobile.payment.config.PaymentProperties;
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.algorithms.Algorithm;
 import org.springframework.security.authentication.AuthenticationManager;

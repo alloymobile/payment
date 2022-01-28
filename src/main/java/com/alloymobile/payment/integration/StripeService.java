@@ -1,8 +1,8 @@
-package com.alloymobiletech.payment.integration;
+package com.alloymobile.payment.integration;
 
-import com.alloymobiletech.payment.config.PaymentProperties;
-import com.alloymobiletech.payment.exception.InternalServerException;
-import com.alloymobiletech.payment.model.PaymentDTO;
+import com.alloymobile.payment.config.PaymentProperties;
+import com.alloymobile.payment.exception.InternalServerException;
+import com.alloymobile.payment.model.PaymentDTO;
 import com.stripe.Stripe;
 import com.stripe.exception.*;
 import com.stripe.model.Charge;

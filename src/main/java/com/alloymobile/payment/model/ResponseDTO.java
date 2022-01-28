@@ -1,4 +1,4 @@
-package com.alloymobiletech.payment.model;
+package com.alloymobile.payment.model;
 
 import lombok.Data;
 

@@ -1,8 +1,8 @@
-package com.alloymobiletech.payment.service;
+package com.alloymobile.payment.service;
 
-import com.alloymobiletech.payment.integration.StripeService;
-import com.alloymobiletech.payment.model.PaymentDTO;
-import com.alloymobiletech.payment.model.ResponseDTO;
+import com.alloymobile.payment.integration.StripeService;
+import com.alloymobile.payment.model.ResponseDTO;
+import com.alloymobile.payment.model.PaymentDTO;
 import com.stripe.model.Charge;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

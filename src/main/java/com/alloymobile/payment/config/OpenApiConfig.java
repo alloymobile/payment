@@ -1,4 +1,4 @@
-package com.alloymobiletech.payment.config;
+package com.alloymobile.payment.config;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.enums.SecuritySchemeType;

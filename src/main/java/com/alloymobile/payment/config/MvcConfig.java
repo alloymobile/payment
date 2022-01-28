@@ -1,4 +1,4 @@
-package com.alloymobiletech.payment.config;
+package com.alloymobile.payment.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

@@ -1,6 +1,6 @@
-package com.alloymobiletech.payment.exception;
+package com.alloymobile.payment.exception;
 
-import com.alloymobiletech.payment.model.ResponseDTO;
+import com.alloymobile.payment.model.ResponseDTO;
 import org.springframework.core.Ordered;
 import org.springframework.core.annotation.Order;
 import org.springframework.http.HttpStatus;

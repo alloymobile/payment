@@ -1,8 +1,8 @@
-package com.alloymobiletech.payment.resource;
+package com.alloymobile.payment.resource;
 
-import com.alloymobiletech.payment.model.PaymentDTO;
-import com.alloymobiletech.payment.model.ResponseDTO;
-import com.alloymobiletech.payment.service.PaymentService;
+import com.alloymobile.payment.model.PaymentDTO;
+import com.alloymobile.payment.model.ResponseDTO;
+import com.alloymobile.payment.service.PaymentService;
 import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.ResponseEntity;
